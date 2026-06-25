@@ -1,6 +1,6 @@
 name = "transfer-api"
 main = "src/worker.js"
-compatibility_date = "2025-11-21"
+compatibility_date = "2026-06-25"
 
 # Store the upstream key as a secret instead of committing it here:
 #   wrangler secret put UNLIMITED_SURF_API_KEY
